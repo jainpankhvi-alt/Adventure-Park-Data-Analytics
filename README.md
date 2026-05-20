@@ -125,6 +125,16 @@ The dashboard includes:
 
 ---
 
+📊 Dashboards
+
+. EXECUTIVE SALES DASHBOARD
+<img width="769" height="488" alt="EXECUTIVE SALES DASHBOARD" src="https://github.com/user-attachments/assets/ebee2dea-135c-40d2-982a-488c7bb4725e" />
+
+
+. EMPLOYEE PERFORMANCE DASHBOARD
+<img width="769" height="488" alt="EXECUTIVE SALES DASHBOARD" src="https://github.com/user-attachments/assets/3380cd86-0bf0-4b4d-aa8d-4f1e49853c83" />
+
+
 # Business Insights
 
 Some major insights identified from the project:
